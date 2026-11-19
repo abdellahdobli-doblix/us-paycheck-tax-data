@@ -1,0 +1,790 @@
+state_code,tax,kind,place,official_code,resident_rate_percent,nonresident_rate_percent,method,tax_year,checked_on,source_url
+MI,Michigan city income tax,city,Detroit,,2.4,1.2,flat rate on wages,2026,2026-11-05,https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/City-Withholding/TY2026/5469_ty2026.pdf
+MI,Michigan city income tax,city,Grand Rapids,,1.5,0.75,flat rate on wages,2026,2026-11-05,https://www.grandrapidsmi.gov/departments/fiscal-services/income-tax/employers-and-withholders/income-tax-guide-for-withholders/
+IN,Indiana county income tax,county,Adams,01,1.6,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Allen,02,1.59,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Bartholomew,03,1.75,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Benton,04,1.79,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Blackford,05,2.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Boone,06,1.71,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Brown,07,2.5234,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Carroll,08,2.4733,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Cass,09,2.95,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Clark,10,2,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Clay,11,2.35,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Clinton,12,2.65,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Crawford,13,1.65,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Daviess,14,1.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Dearborn,15,1.4,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Decatur,16,2.45,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,DeKalb,17,2.13,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Delaware,18,1.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Dubois,19,1.2,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Elkhart,20,2,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Fayette,21,2.82,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Floyd,22,1.89,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Fountain,23,2.1,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Franklin,24,1.7,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Fulton,25,2.88,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Gibson,26,1.3,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Grant,27,2.75,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Greene,28,2.35,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Hamilton,29,1.1,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Hancock,30,1.94,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Harrison,31,1,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Hendricks,32,1.7,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Henry,33,2.02,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Howard,34,2.35,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Huntington,35,1.95,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Jackson,36,2.1,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Jasper,37,2.864,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Jay,38,2.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Jefferson,39,1.03,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Jennings,40,2.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Johnson,41,1.4,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Knox,42,1.7,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Kosciusko,43,1,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,LaGrange,44,1.65,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Lake,45,1.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,LaPorte,46,1.45,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Lawrence,47,1.75,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Madison,48,2.25,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Marion,49,2.02,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Marshall,50,1.25,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Martin,51,2.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Miami,52,2.54,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Monroe,53,2.14,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Montgomery,54,2.65,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Morgan,55,2.72,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Newton,56,1,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Noble,57,1.75,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Ohio,58,2,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Orange,59,1.75,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Owen,60,2.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Parke,61,2.65,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Perry,62,1.4,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Pike,63,1.2,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Porter,64,0.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Posey,65,1.45,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Pulaski,66,2.85,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Putnam,67,2.3,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Randolph,68,3,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Ripley,69,2.38,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Rush,70,2.15,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,St. Joseph,71,1.75,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Scott,72,2.16,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Shelby,73,1.7,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Spencer,74,0.8,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Starke,75,1.71,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Steuben,76,1.99,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Sullivan,77,1.7,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Switzerland,78,1.45,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Tippecanoe,79,1.28,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Tipton,80,2.6,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Union,81,2.75,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Vanderburgh,82,1.25,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Vermillion,83,1.5,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Vigo,84,2,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Wabash,85,2.9,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Warren,86,2.12,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Warrick,87,1,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Washington,88,2,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Wayne,89,1.25,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Wells,90,2.1,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,White,91,2.32,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+IN,Indiana county income tax,county,Whitley,92,1.6829,,flat rate on wages,2026,2026-11-05,https://www.in.gov/dor/files/dn01.pdf
+MD,Maryland county income tax,county,Allegany County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Anne Arundel County,,2.7,,marginal tiers from 2.7% to 3.2%,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Baltimore County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Calvert County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Caroline County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Carroll County,,3.03,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Cecil County,,2.74,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Charles County,,3.03,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Dorchester County,,3.3,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Garrett County,,2.65,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Frederick County,,2.25,,one rate set by taxable income from 2.25% to 3.2%,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Harford County,,3.06,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Howard County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Kent County,,3.3,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Montgomery County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Prince George’s County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Queen Anne’s County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,St. Mary’s County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Somerset County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Talbot County,,2.4,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Washington County,,2.95,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Wicomico County,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Worcester County,,2.25,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Baltimore City,,3.2,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+MD,Maryland county income tax,county,Outside Maryland,,2.25,,flat rate on wages,2026,2026-11-09,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/facts/withholding-tax-facts-2026.pdf
+NY,New York City and Yonkers income taxes,city,New York City,,2.05,,yearly brackets from 2.05% to 4.25%,2026,2026-11-10,https://www.tax.ny.gov/pdf/current_forms/it/it2104_fill_in.pdf
+NY,New York City and Yonkers income taxes,city,Yonkers,,,0.5,residents: 16.75% of New York State tax; nonresidents: 0.5% of wages after exclusions,2026,2026-11-10,https://www.tax.ny.gov/pdf/publications/withholding/nys50_t_y.pdf
+PA,Philadelphia Wage Tax,city,Philadelphia,,3.735,3.425,flat rate on wages,2026,2026-11-05,https://www.phila.gov/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/wage-tax-employers/
+OH,Ohio municipal income tax,city,Aberdeen,00142,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ada,00198,1.65,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Addyston,00436,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Adelphi,00450,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Akron,01000,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Alexandria,01154,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Alger,01210,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Alliance,01420,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Amanda,01630,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Amberley,01672,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Amherst,01798,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Amsterdam,01938,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Andover,02050,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Anna,02092,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ansonia,02120,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Antwerp,02204,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Apple Creek,02232,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Arcanum,02330,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Archbold,02344,1.8,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Arlington,02400,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Arlington Heights,02428,2.1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ashland,02568,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ashley,02582,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ashtabula,02638,1.8,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ashville,02680,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Athens,02736,1.95,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Aurora,03086,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Avon,03352,1.95,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Avon Lake,03464,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Baltic,03744,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Baltimore,03758,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Barberton,03828,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Barnesville,03926,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Batavia,04150,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bay Village,04416,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Beach City,04458,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Beachwood,04500,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Beaverdam,04752,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bedford,04878,3,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bedford Heights,04920,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bellaire,05074,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Belle Center,05116,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bellefontaine,05130,1.6,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bellevue,05228,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bellville,05284,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Belpre,05424,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bentleyville,05550,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Berea,05690,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bethel,06068,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bettsville,06194,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Beverly,06222,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bexley,06278,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Blanchester,06908,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bloomdale,07062,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bloomingdale,07202,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bloomville,07286,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Blue Ash,07300,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bluffton,07426,1.65,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bolivar,07594,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Boston Heights,07790,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Botkins,07832,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bowerston,07916,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bowling Green,07972,2.15,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bradford,08084,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bradner,08112,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bratenahl,08336,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Brecksville,08364,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bremen,08392,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Brewster,08504,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Brice,08532,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bridgeport,08560,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Broadview Heights,09064,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Brook Park,09288,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Brooklyn,09246,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Brooklyn Heights,09274,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Brookville,09358,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Brunswick,09680,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bryan,09792,1.8,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Buckland,09974,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Bucyrus,10030,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Burbank,10254,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Burton,10436,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Butler,10632,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Byesville,10716,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cadiz,10800,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cairo,10884,0.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Caldwell,10940,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cambridge,10996,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Camden,11024,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Campbell,11066,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Canal Fulton,11304,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Canal Winchester,11332,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Canfield,11360,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Canton,12000,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cardington,12084,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Carey,12112,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Carlisle,12168,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Carroll,12252,0.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Carrollton,12280,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Catawba,12560,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cecil,12700,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cedarville,12784,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Celina,12868,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Centerburg,13036,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Centerville,13190,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Chagrin Falls,13358,1.85,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Chardon,13554,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Chesterville,14114,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cheviot,14128,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Chickasaw,14156,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Chillicothe,14184,1.8,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cincinnati,15000,1.8,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Circleville,15070,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Clarksville,15406,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Clay Center,15588,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Clayton,15644,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cleveland,16000,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cleveland Heights,16014,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Clinton,16182,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Clyde,16308,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Coal Grove,16378,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Coldwater,16532,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Columbiana,17036,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Columbus,18000,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Columbus Grove,18014,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Commercial Point,18070,0.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Conesville,18266,0.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Conneaut,18350,1.65,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Continental,18504,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Convoy,18546,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Corwin,18840,0.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Coshocton,18868,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Covington,19050,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Crestline,19330,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Creston,19344,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cridersville,19400,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Crooksville,19456,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cuyahoga Falls,19778,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cuyahoga Heights,19806,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Cygnet,19820,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Dalton,19974,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Danville,20114,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Darbyville,20212,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Dayton,21000,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,De Graff,21378,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Deer Park,21266,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Defiance,21308,1.8,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Delaware,21434,1.85,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Delphos,21602,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Delta,21616,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Dennison,21714,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Deshler,21812,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Dover,22456,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Doylestown,22568,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Dresden,22610,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Dublin,22694,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Dunkirk,22946,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,East Canton,23324,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,East Cleveland,23380,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,East Liverpool,23730,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,East Palestine,23940,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Eastlake,23618,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Eaton,24234,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Edgerton,24486,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Edison,24598,0.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Edon,24640,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Elida,24808,0.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Elmore,25144,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Elmwood Place,25186,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Elyria,25256,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Empire,25368,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Englewood,25396,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Euclid,25704,2.85,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Evendale,25802,1.2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fairborn,25914,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fairfax,25942,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fairfield,25970,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fairlawn,26166,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fairport Harbor,26306,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fairview Park,26446,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Farmersville,26656,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fayette,26768,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fayetteville,26796,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Felicity,26880,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Findlay,27048,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Forest,27636,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Forest Park,27706,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fort Jennings,27818,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fort Loramie,27832,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fort Recovery,27902,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fostoria,28014,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Franklin,28476,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Frazeysburg,28574,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fredericksburg,28616,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fredericktown,28658,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fremont,28826,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Fulton,29050,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Gahanna,29106,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Galena,29148,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Galion,29162,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Gallipolis,29204,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Gambier,29246,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Garfield Heights,29428,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Garrettsville,29442,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Gates Mills,29498,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Geneva,29610,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Geneva-On-The-Lake,29652,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Genoa,29722,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Georgetown,29778,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Gettysburg,29974,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Gibsonburg,30072,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Girard,30198,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Glandorf,30282,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Glenmont,30506,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Glenwillow,30632,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Gnadenhutten,30702,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Golf Manor,30786,1.7,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Grafton,31150,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Grand Rapids,31206,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Grand River,31234,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Grandview Heights,31304,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Granville,31402,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Gratis,31472,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Green,31860,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Green Springs,32256,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Greenfield,32088,1.625,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Greenhills,32158,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Greenville,32340,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Greenwich,32368,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Grove City,32592,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Groveport,32606,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hamersville,32984,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hamilton,33012,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hamler,33096,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hanging Rock,33194,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hanover,33292,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Harrisburg,33740,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Harrison,33838,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Harrod,34118,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hartville,34328,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Haskins,34412,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Heath,34748,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hebron,34790,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Helena,34860,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hicksville,35098,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Highland Heights,35252,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Highland Hills,35255,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hilliard,35476,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hillsboro,35560,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hiram,35658,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Holgate,35854,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Holland,35882,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Holmesville,35994,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hopedale,36260,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hubbard,36582,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Huber Heights,36610,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Hudson,36651,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Huntsville,36988,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Huron,37016,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Independence,37240,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Indian Hill,76582,0.45,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ironton,37464,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Jackson,37842,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Jackson Center,38220,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Jamestown,38374,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Jefferson,38500,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Jeffersonville,38920,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Jenera,38948,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Jerry City,39074,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Jewett,39172,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Johnstown,39340,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Kalida,39536,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Kent,39872,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Kenton,39886,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Kettering,40040,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Killbuck,40180,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Kirby,40558,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Kirkersville,40572,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Kirtland,40642,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lagrange,41230,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lakeline,41398,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lakemore,41454,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lakeview,41608,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lakewood,41664,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lancaster,41720,2.3,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Latty,41986,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lebanon,42364,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Leesburg,42476,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Leetonia,42560,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Leipsic,42602,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lewisburg,42938,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lexington,42994,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Liberty Center,43414,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lima,43554,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lincoln Heights,43722,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Linndale,43918,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lisbon,44030,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lithopolis,44086,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lockbourne,44310,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lockington,44352,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lockland,44366,2.1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lodi,44604,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Logan,44632,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,London,44674,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lorain,44856,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lordstown,44912,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Loudonville,45066,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Louisville,45094,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Loveland,45108,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lowellville,45178,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Luckey,45332,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lyndhurst,45556,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Lyons,45626,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Macedonia,45976,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Madeira,46312,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Madison,46480,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Maineville,46872,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Malinta,46942,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Malta,46970,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Malvern,46998,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Manchester,47012,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mansfield,47138,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mantua,47180,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Maple Heights,47306,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Marble Cliff,47474,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Marengo,47558,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mariemont,47600,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Marietta,47628,1.85,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Marion,47754,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Marshallville,48048,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Martins Ferry,48104,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Marysville,48160,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mason,48188,1.12,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Massillon,48244,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Maumee,48342,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mayfield,48468,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mayfield Heights,48482,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mcclure,45794,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mccomb,45808,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mcconnelsville,45822,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mcdonald,45934,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mcguffey,46046,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mechanicsburg,48706,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Medina,48790,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Melrose,49000,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mentor,49056,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mentor-On-The-Lake,49098,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Metamora,49238,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Miamisburg,49434,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Middle Point,49728,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Middleburg Heights,49644,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Middlefield,49700,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Middleport,49756,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Middletown,49840,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Midvale,49966,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mifflin,50036,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Milan,50134,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Milford,50176,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Milford Center,50218,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Millbury,50260,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Miller City,50358,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Millersburg,50372,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Millersport,50400,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Millville,50540,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mineral City,50764,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Minerva,50834,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Minerva Park,50862,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mingo Junction,50904,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Minster,50918,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mogadore,51058,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Monroe,51310,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Monroeville,51618,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Montgomery,51716,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Montpelier,51772,1.8,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Moraine,52010,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Moreland Hills,52052,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Morral,52276,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Morrow,52374,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mount Blanchard,52598,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mount Cory,52668,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mount Eaton,52682,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mount Gilead,52738,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mount Healthy,52752,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mount Orab,52906,1.35,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mount Sterling,53046,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mount Vernon,53102,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Mount Victory,53144,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Munroe Falls,53312,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Napoleon,53550,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Nashville,53634,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Navarre,53690,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Nelsonville,53886,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Albany,53970,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Bavaria,54110,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Bloomington,54152,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Boston,54166,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Bremen,54194,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Carlisle,54334,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Concord,54446,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Franklin,54562,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Knoxville,54838,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Lebanon,54852,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Lexington,54866,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New London,54908,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Madison,54978,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Miami,55104,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Paris,55188,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Philadelphia,55216,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Richmond,55384,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Riegel,55398,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Washington,55776,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,New Waterford,55790,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Newark,54040,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Newburgh Heights,54250,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Newcomerstown,54432,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Newton Falls,55650,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Newtown,55678,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ney,55874,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Niles,55916,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Baltimore,56154,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Canton,56294,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North College Hill,56322,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Kingsville,56700,1.3,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Lewisburg,56770,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Olmsted,56882,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Perry,56910,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Randall,56924,2.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Ridgeville,56966,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Robinson,56994,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Royalton,57008,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,North Star,57064,0.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Northfield,56448,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Northwood,57190,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Norton,57260,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Norwalk,57302,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Norwood,57386,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Oak Harbor,57582,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Oak Hill,57596,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Oakwood (cuyahoga),57750,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Oakwood (montgomery),57764,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Oakwood (paulding),57792,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Oberlin,57834,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Obetz,57862,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Octa,57918,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ohio City,58002,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Olmsted Falls,58422,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ontario,58520,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Orange,58604,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Oregon,58730,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Orrville,58828,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Orwell,58856,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Osgood,58912,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ostrander,58940,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ottawa,58982,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ottawa Hills,59010,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ottoville,59052,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Owensville,59220,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Oxford,59234,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Painesville,59416,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pandora,59738,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Parma,61000,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Parma Heights,61028,3,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pataskala,61112,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Patterson,61182,0.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Paulding,61252,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Payne,61322,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pemberville,61504,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Peninsula,61574,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pepper Pike,61686,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Perry,61882,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Perrysburg,62148,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Perrysville,62190,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Phillipsburg,62414,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pickerington,62498,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Piketon,62708,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pioneer,62834,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Piqua,62848,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pitsburg,62890,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Plain City,63030,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pleasant Hill,63534,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pleasantville,63716,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Plymouth,63800,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Pomeroy,64024,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Port Clinton,64150,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Port Washington,64346,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Portage,64108,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Portsmouth,64304,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Powell,64486,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Powhatan Point,64542,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Quincy,65200,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ravenna,65592,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Reading,65732,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Reminderville,66152,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Reynoldsburg,66390,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Richfield,66530,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Richmond Heights,66894,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Richwood,66936,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ridgeway,67118,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Rio Grande,67258,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Ripley,67272,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Risingsun,67314,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Rittman,67356,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Riverside,67468,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Rock Creek,67846,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Rockford,67874,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Rocky River,68056,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Roseville,68560,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Rossford,68686,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Roswell,68742,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Rushsylvania,69176,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Rushville,69204,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Russells Point,69302,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Russia,69344,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Rutland,69358,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sabina,69400,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Salem,69834,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Salineville,70100,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sandusky,70380,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sardinia,70534,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Scio,70814,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sebring,71220,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Seven Hills,71416,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Seville,71486,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Shaker Heights,71682,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sharonville,71892,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Shawnee Hills,71976,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sheffield,72060,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sheffield Lake,72088,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Shelby,72102,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sherrodsville,72242,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sherwood,72256,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Shreve,72396,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sidney,72424,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Silver Lake,72494,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Silverton,72522,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Smithville,72788,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Solon,72928,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Somerset,72977,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,South Amherst,73040,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,South Bloomfield,73068,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,South Charleston,73124,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,South Euclid,73264,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,South Lebanon,73446,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,South Russell,73684,1.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,South Solon,73768,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,South Vienna,73796,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,South Zanesville,73894,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Spencerville,74034,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Springboro,74076,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Springdale,74104,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Springfield,74118,2.4,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,St. Bernard,69470,2.1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,St. Clairsville,69526,0.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,St. Henry,69540,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,St. Louisville,69652,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,St. Marys,69680,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,St. Paris,69708,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Steubenville,74608,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Stone Creek,74804,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Stoutsville,74916,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Stow,74944,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Strasburg,74958,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Stratton,75000,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Streetsboro,75014,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Strongsville,75098,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Struthers,75126,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Stryker,75140,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sugar Grove,75252,0.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sugarcreek,75210,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sunbury,75602,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Swanton,75896,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sycamore,75980,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Sylvania,76022,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Tallmadge,76106,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Thurston,76764,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Tiffin,76778,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Timberlake,76834,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Tipp City,76876,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Tiro,76932,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Toledo,77000,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Tontogany,77070,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Toronto,77112,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Tremont City,77308,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Trenton,77322,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Trimble,77406,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Trotwood,77504,2.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Troy,77588,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Tuscarawas,77924,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Twinsburg,78050,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Uhrichsville,78176,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Union,78470,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Union City,78624,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,University Heights,78932,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Upper Arlington,79002,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Upper Sandusky,79044,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Urbana,79072,1.4,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Urbancrest,79100,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Utica,79114,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Valley Hi,79226,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Valley View,79268,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Van Wert,79562,1.72,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Vandalia,79492,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Vanlue,79534,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Vermilion,79716,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Versailles,79912,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wadsworth,80304,1.4,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wakeman,80458,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Walbridge,80486,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Walton Hills,80738,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wapakoneta,80766,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Warren,80892,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Warrensville Heights,80990,2.6,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Warsaw,81032,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Washington,81214,1.95,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Washingtonville,81732,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Waterville,81858,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wauseon,81928,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Waverly City,81942,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wayne,82334,0.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wayne Lakes,82348,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Waynesfield,82390,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Waynesville,82418,0.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wellington,82642,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wellston,82712,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wellsville,82740,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Alexandria,82880,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Carrollton City,83111,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Elkton,83216,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Jefferson,83580,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Lafayette,83608,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Liberty,83734,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Mansfield,83818,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Millgrove,83888,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Milton,83902,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Salem,84196,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Union,84294,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,West Unity,84308,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Westerville,83342,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Westfield Center,83468,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Westlake,83622,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Weston,83972,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Whitehall,84742,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Whitehouse,84770,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wickliffe,85036,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Willard,85232,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Williamsburg,85288,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Williamsport,85414,0.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Willoughby,85484,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Willoughby Hills,85512,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Willowick,85638,2,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Willshire,85736,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wilmington,85792,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wilmot,85806,1.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Windham,85946,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wintersville,86184,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Woodlawn,86366,2.3,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Woodmere,86394,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Woodsfield,86436,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Woodstock,86478,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wooster,86548,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Worthington,86604,2.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Wyoming,86730,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Xenia,86772,2.25,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Yellow Springs,86940,1.5,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Yorkshire,87164,1,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Youngstown,88000,2.75,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads
+OH,Ohio municipal income tax,city,Zanesville,88084,1.9,,flat rate on wages,2026,2026-11-11,https://thefinder.tax.ohio.gov/?tab=fileDownloads

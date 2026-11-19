@@ -1,0 +1,323 @@
+{
+  "name": "dolidob-us-paycheck-tax-data",
+  "title": "Dolidob U.S. paycheck and tax data",
+  "description": "Take-home pay by state and salary, Ohio municipal income tax rates and federal tax brackets, from the data behind the dolidob.com calculators. Every official figure is checked against its government source.",
+  "homepage": "https://dolidob.com/data/",
+  "version": "2026-11-19",
+  "created": "2026-11-19",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Dolidob",
+      "path": "https://dolidob.com",
+      "role": "author"
+    }
+  ],
+  "keywords": [
+    "paycheck",
+    "take-home pay",
+    "income tax",
+    "state tax",
+    "payroll",
+    "Ohio municipal tax",
+    "tax brackets"
+  ],
+  "resources": [
+    {
+      "name": "take-home-pay-by-state-2026",
+      "title": "U.S. take-home pay by state and salary, 2026",
+      "path": "https://dolidob.com/data/take-home-pay-by-state-2026.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "version": "2026.1",
+      "updated": "2026-11-18",
+      "description": "Federal income tax, Social Security, Medicare, state income tax, state employee contributions and take-home pay for 50 states, salaries from $30,000 to $250,000 in $5,000 steps. Single filer, paid every two weeks (26 paychecks), no 401(k) or pre-tax benefits, each state's default withholding allowances, no city or county tax. Computed with the same code as the dolidob.com Take-Home Pay Calculator.",
+      "sources": [
+        {
+          "title": "Official figures used, each with its government source",
+          "path": "https://dolidob.com/figures/"
+        },
+        {
+          "title": "IRS Rev. Proc. 2025-32 (2026 federal brackets and standard deduction)",
+          "path": "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "citation": "Dolidob, \"U.S. take-home pay by state and salary, 2026\" (version 2026.1, updated 2026-11-18), https://dolidob.com/data/take-home-pay-by-state-2026.csv. Licensed under CC BY 4.0.",
+      "schema": {
+        "fields": [
+          {
+            "name": "tax_year",
+            "type": "integer",
+            "description": "Tax year of the figures"
+          },
+          {
+            "name": "state_code",
+            "type": "string",
+            "description": "Two-letter state code"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State name"
+          },
+          {
+            "name": "salary",
+            "type": "integer",
+            "description": "Gross yearly salary, US dollars"
+          },
+          {
+            "name": "federal_income_tax",
+            "type": "number",
+            "description": "Yearly federal income tax, single filer, standard deduction"
+          },
+          {
+            "name": "social_security",
+            "type": "number",
+            "description": "Yearly employee Social Security tax (6.2% up to the wage base)"
+          },
+          {
+            "name": "medicare",
+            "type": "number",
+            "description": "Yearly employee Medicare tax, including Additional Medicare Tax"
+          },
+          {
+            "name": "state_income_tax",
+            "type": "number",
+            "description": "Yearly state income tax withheld, using the state's own withholding method"
+          },
+          {
+            "name": "state_employee_contributions",
+            "type": "number",
+            "description": "Yearly employee contributions the state requires from pay (e.g. CA SDI, WA Paid Leave and WA Cares, NY disability and Paid Family Leave); 0 if none"
+          },
+          {
+            "name": "contributions_label",
+            "type": "string",
+            "description": "What the contributions are; empty if none"
+          },
+          {
+            "name": "total_taxes",
+            "type": "number",
+            "description": "salary minus take_home_pay"
+          },
+          {
+            "name": "take_home_pay",
+            "type": "number",
+            "description": "Yearly pay after all the above"
+          },
+          {
+            "name": "take_home_per_biweekly_paycheck",
+            "type": "number",
+            "description": "take_home_pay divided by 26"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ohio-municipal-income-tax-rates",
+      "title": "Ohio municipal income tax rates",
+      "path": "https://dolidob.com/data/ohio-municipal-income-tax-rates.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "version": "2026.11",
+      "updated": "2026-11-11",
+      "description": "Every Ohio city and village with a municipal income tax rate above zero, with its Ohio Department of Taxation code, as in effect on the date shown.",
+      "sources": [
+        {
+          "title": "Ohio Department of Taxation, The Finder, Municipal Rate Database Table (OHMuniRateTable.csv)",
+          "path": "https://thefinder.tax.ohio.gov/?tab=fileDownloads"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "citation": "Dolidob, \"Ohio municipal income tax rates\" (version 2026.11, updated 2026-11-11), https://dolidob.com/data/ohio-municipal-income-tax-rates.csv. Licensed under CC BY 4.0.",
+      "schema": {
+        "fields": [
+          {
+            "name": "municipality",
+            "type": "string",
+            "description": "City or village name"
+          },
+          {
+            "name": "odt_code",
+            "type": "string",
+            "description": "Ohio Department of Taxation municipality code (keep as text: leading zeros)"
+          },
+          {
+            "name": "rate_percent",
+            "type": "number",
+            "description": "Municipal income tax rate, percent"
+          },
+          {
+            "name": "in_effect_on",
+            "type": "date",
+            "description": "Date on which the rate was in effect"
+          }
+        ]
+      }
+    },
+    {
+      "name": "federal-income-tax-brackets",
+      "title": "U.S. federal income tax brackets and standard deductions, 2026 and 2027",
+      "path": "https://dolidob.com/data/federal-income-tax-brackets.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "version": "2027.1",
+      "updated": "2026-11-13",
+      "description": "Every federal income tax bracket for single, married filing jointly, married filing separately and head of household, with the standard deduction, for tax years 2026 and 2027.",
+      "sources": [
+        {
+          "title": "IRS Rev. Proc. 2025-32 (tax year 2026)",
+          "path": "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf"
+        },
+        {
+          "title": "IRS Rev. Proc. 2026-35 (tax year 2027)",
+          "path": "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "citation": "Dolidob, \"U.S. federal income tax brackets and standard deductions, 2026 and 2027\" (version 2027.1, updated 2026-11-13), https://dolidob.com/data/federal-income-tax-brackets.csv. Licensed under CC BY 4.0.",
+      "schema": {
+        "fields": [
+          {
+            "name": "tax_year",
+            "type": "integer",
+            "description": "Tax year"
+          },
+          {
+            "name": "filing_status",
+            "type": "string",
+            "description": "single, married_joint, married_separate or head_of_household"
+          },
+          {
+            "name": "rate_percent",
+            "type": "number",
+            "description": "Marginal rate, percent"
+          },
+          {
+            "name": "taxable_income_over",
+            "type": "number",
+            "description": "Lower bound of the bracket, taxable income in dollars"
+          },
+          {
+            "name": "taxable_income_up_to",
+            "type": "number",
+            "description": "Upper bound; empty for the top bracket"
+          },
+          {
+            "name": "standard_deduction",
+            "type": "number",
+            "description": "Standard deduction for the filing status and year"
+          }
+        ]
+      }
+    },
+    {
+      "name": "us-local-income-tax-rates",
+      "title": "U.S. city and county income taxes on wages",
+      "path": "https://dolidob.com/data/us-local-income-tax-rates.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "version": "2026.1",
+      "updated": "2026-11-19",
+      "description": "Every city and county wage tax used by the dolidob.com paycheck calculators, from official state and city sources: Michigan cities (Detroit, Grand Rapids), Indiana counties, Maryland counties and Baltimore City, New York City and Yonkers, Philadelphia, and Ohio municipalities. Rates as the agencies publish them; the method column notes brackets, tiers and surcharges.",
+      "sources": [
+        {
+          "title": "Each row's source_url: the agency publication the rate was checked against",
+          "path": "https://dolidob.com/figures/"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "citation": "Dolidob, \"U.S. city and county income taxes on wages\" (version 2026.1, updated 2026-11-19), https://dolidob.com/data/us-local-income-tax-rates.csv. Licensed under CC BY 4.0.",
+      "schema": {
+        "fields": [
+          {
+            "name": "state_code",
+            "type": "string",
+            "description": "Two-letter state code"
+          },
+          {
+            "name": "tax",
+            "type": "string",
+            "description": "Name of the local tax"
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "city or county"
+          },
+          {
+            "name": "place",
+            "type": "string",
+            "description": "City, county or municipality"
+          },
+          {
+            "name": "official_code",
+            "type": "string",
+            "description": "The agency's own code where it has one (Indiana counties, Ohio municipalities); keep as text"
+          },
+          {
+            "name": "resident_rate_percent",
+            "type": "number",
+            "description": "Rate for residents, percent (lowest rate where brackets or tiers apply; empty for Yonkers, see method)"
+          },
+          {
+            "name": "nonresident_rate_percent",
+            "type": "number",
+            "description": "Published rate for people who work there but live elsewhere, percent; empty where no separate nonresident rate applies (New York City, county taxes, Ohio, where the work-city rate is the one listed)"
+          },
+          {
+            "name": "method",
+            "type": "string",
+            "description": "How the tax is figured: flat rate, brackets, tiers or surcharge"
+          },
+          {
+            "name": "tax_year",
+            "type": "integer",
+            "description": "Tax year"
+          },
+          {
+            "name": "checked_on",
+            "type": "date",
+            "description": "Date the figures were checked against the source"
+          },
+          {
+            "name": "source_url",
+            "type": "string",
+            "description": "Official source"
+          }
+        ]
+      }
+    }
+  ]
+}
