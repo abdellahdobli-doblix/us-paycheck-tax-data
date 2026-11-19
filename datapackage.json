@@ -36,9 +36,9 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "version": "2026.1",
-      "updated": "2026-11-18",
-      "description": "Federal income tax, Social Security, Medicare, state income tax, state employee contributions and take-home pay for 50 states, salaries from $30,000 to $250,000 in $5,000 steps. Single filer, paid every two weeks (26 paychecks), no 401(k) or pre-tax benefits, each state's default withholding allowances, no city or county tax. Computed with the same code as the dolidob.com Take-Home Pay Calculator.",
+      "version": "2026.2",
+      "updated": "2026-11-19",
+      "description": "Federal income tax, Social Security, Medicare, state income tax, state employee contributions and take-home pay for 50 states and the District of Columbia, salaries from $30,000 to $250,000 in $5,000 steps. Single filer, paid every two weeks (26 paychecks), no 401(k) or pre-tax benefits, each state's default withholding allowances, no city or county tax. Computed with the same code as the dolidob.com Take-Home Pay Calculator.",
       "sources": [
         {
           "title": "Official figures used, each with its government source",
@@ -55,7 +55,7 @@
           "path": "https://creativecommons.org/licenses/by/4.0/"
         }
       ],
-      "citation": "Dolidob, \"U.S. take-home pay by state and salary, 2026\" (version 2026.1, updated 2026-11-18), https://dolidob.com/data/take-home-pay-by-state-2026.csv. Licensed under CC BY 4.0.",
+      "citation": "Dolidob, \"U.S. take-home pay by state and salary, 2026\" (version 2026.2, updated 2026-11-19), https://dolidob.com/data/take-home-pay-by-state-2026.csv. Licensed under CC BY 4.0.",
       "schema": {
         "fields": [
           {

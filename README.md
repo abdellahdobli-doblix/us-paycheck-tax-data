@@ -4,7 +4,7 @@ Free CSV data behind the calculators at [Dolidob](https://dolidob.com/data/). Ev
 
 | File | Rows | What it holds |
 |---|---|---|
-| [take-home-pay-by-state-2026.csv](take-home-pay-by-state-2026.csv) | 2,250 | Federal tax, Social Security, Medicare, state tax, state employee contributions and take-home pay, by state and salary. Single filer, paid every two weeks, no 401(k). |
+| [take-home-pay-by-state-2026.csv](take-home-pay-by-state-2026.csv) | 2,295 | Federal tax, Social Security, Medicare, state tax, state employee contributions and take-home pay, by state (and DC) and salary. Single filer, paid every two weeks, no 401(k). |
 | [us-local-income-tax-rates.csv](us-local-income-tax-rates.csv) | 789 | City and county wage taxes in MI, IN, MD, NY, PA and OH, with resident and nonresident rates and the official source for each row |
 | [ohio-municipal-income-tax-rates.csv](ohio-municipal-income-tax-rates.csv) | 667 | Every Ohio municipality with an income tax (Ohio Department of Taxation) |
 | [federal-income-tax-brackets.csv](federal-income-tax-brackets.csv) | 56 | 2026 and 2027 federal brackets and standard deductions (IRS Rev. Proc. 2025-32 and 2026-35) |
