@@ -1,5 +1,7 @@
 # US paycheck and local tax data (2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24421616.svg)](https://doi.org/10.5281/zenodo.24421616)
+
 Free CSV data behind the calculators at [Dolidob](https://dolidob.com/data/). Every official figure is checked against a government source.
 
 | File | Rows | What it holds |
@@ -16,6 +18,6 @@ The latest version of every file is always at https://dolidob.com/data/.
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit with a link:
 
-> Source: Dolidob (https://dolidob.com), CC BY 4.0
+> Source: Dolidob (https://dolidob.com), CC BY 4.0. DOI: 10.5281/zenodo.24421616
 
 These figures are estimates for education, not tax advice. Found an error? https://dolidob.com/contact/
