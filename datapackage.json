@@ -3,8 +3,8 @@
   "title": "Dolidob U.S. paycheck and tax data",
   "description": "Take-home pay by state and salary, Ohio municipal income tax rates and federal tax brackets, from the data behind the dolidob.com calculators. Every official figure is checked against its government source.",
   "homepage": "https://dolidob.com/data/",
-  "version": "2026-11-19",
-  "created": "2026-11-19",
+  "version": "2026-11-23",
+  "created": "2026-11-23",
   "licenses": [
     {
       "name": "CC-BY-4.0",
@@ -82,6 +82,103 @@
             "name": "federal_income_tax",
             "type": "number",
             "description": "Yearly federal income tax, single filer, standard deduction"
+          },
+          {
+            "name": "social_security",
+            "type": "number",
+            "description": "Yearly employee Social Security tax (6.2% up to the wage base)"
+          },
+          {
+            "name": "medicare",
+            "type": "number",
+            "description": "Yearly employee Medicare tax, including Additional Medicare Tax"
+          },
+          {
+            "name": "state_income_tax",
+            "type": "number",
+            "description": "Yearly state income tax withheld, using the state's own withholding method"
+          },
+          {
+            "name": "state_employee_contributions",
+            "type": "number",
+            "description": "Yearly employee contributions the state requires from pay (e.g. CA SDI, WA Paid Leave and WA Cares, NY disability and Paid Family Leave); 0 if none"
+          },
+          {
+            "name": "contributions_label",
+            "type": "string",
+            "description": "What the contributions are; empty if none"
+          },
+          {
+            "name": "total_taxes",
+            "type": "number",
+            "description": "salary minus take_home_pay"
+          },
+          {
+            "name": "take_home_pay",
+            "type": "number",
+            "description": "Yearly pay after all the above"
+          },
+          {
+            "name": "take_home_per_biweekly_paycheck",
+            "type": "number",
+            "description": "take_home_pay divided by 26"
+          }
+        ]
+      }
+    },
+    {
+      "name": "take-home-pay-by-state-2026-married-joint",
+      "title": "U.S. take-home pay by state and salary, 2026: married filing jointly",
+      "path": "https://dolidob.com/data/take-home-pay-by-state-2026-married-joint.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "version": "2026.1",
+      "updated": "2026-11-23",
+      "description": "Federal income tax, Social Security, Medicare, state income tax, state employee contributions and take-home pay for 50 states and the District of Columbia, salaries from $30,000 to $250,000 in $5,000 steps. Married filing jointly with a spouse who has no wages, paid every two weeks (26 paychecks), no 401(k) or pre-tax benefits, the state withholding form's default allowances as in the calculator (California: 1 DE 4 allowance; Oregon: OR-W-4 Married), no city or county tax. Computed with the same code as the dolidob.com Take-Home Pay Calculator.",
+      "sources": [
+        {
+          "title": "Official figures used, each with its government source",
+          "path": "https://dolidob.com/figures/"
+        },
+        {
+          "title": "IRS Rev. Proc. 2025-32 (2026 federal brackets and standard deduction)",
+          "path": "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "CC-BY-4.0",
+          "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "citation": "Dolidob, \"U.S. take-home pay by state and salary, 2026: married filing jointly\" (version 2026.1, updated 2026-11-23), https://dolidob.com/data/take-home-pay-by-state-2026-married-joint.csv. Licensed under CC BY 4.0.",
+      "schema": {
+        "fields": [
+          {
+            "name": "tax_year",
+            "type": "integer",
+            "description": "Tax year of the figures"
+          },
+          {
+            "name": "state_code",
+            "type": "string",
+            "description": "Two-letter state code"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State name"
+          },
+          {
+            "name": "salary",
+            "type": "integer",
+            "description": "Gross yearly salary, US dollars"
+          },
+          {
+            "name": "federal_income_tax",
+            "type": "number",
+            "description": "Yearly federal income tax, married filing jointly, standard deduction"
           },
           {
             "name": "social_security",
