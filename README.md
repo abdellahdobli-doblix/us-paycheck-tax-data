@@ -14,6 +14,7 @@ Free CSV data behind the calculators at [Dolidob](https://dolidob.com/data/). Ev
 
 Column definitions, versions and sources are in [datapackage.json](datapackage.json) (Frictionless Data Package).
 The latest version of every file is always at https://dolidob.com/data/.
+Also on [Kaggle](https://www.kaggle.com/datasets/dobliabdellah/us-take-home-pay-and-local-income-tax-rates-2026) and [Hugging Face](https://huggingface.co/datasets/didox33/us-take-home-pay-2026).
 
 ## License and credit
 
